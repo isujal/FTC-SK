@@ -33,7 +33,7 @@ import java.util.Arrays;
 
 @Config
 //@Deprecated
-@Autonomous(name = "Red Sample 1+3")
+@Autonomous(name = "Red Sample 1+3 🔴")
 //@Deprecated
 public class RedSampleAutoFinal extends LinearOpMode {
     private RobotHardware robot = RobotHardware.getInstance();
